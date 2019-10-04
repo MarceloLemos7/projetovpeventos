@@ -1,0 +1,59 @@
+body {
+    /* background-color: #66788c;   */
+    background-image: url("imagens/fundo02.png");
+}
+
+.imagemRe {
+    max-width: 1000px;
+    max-height: 1400px;
+    width: auto;
+    height: auto;
+    margin-left: 18%;
+    margin-top: -2%;
+}
+
+.imgbanner {
+    margin-top: -7%;
+}
+
+.camp2 {
+    text-align: center;
+    margin-left: 2%;
+    margin-top: 5%;
+    width: 75%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+.faq {
+    height: 65%;
+    width: 65%;
+    margin-top: 5%;
+    margin-left: 25%
+    /* margin: 0 auto; */
+}
+
+.listaSite {
+    height: 65%;
+    width: 65%;
+    margin-top: 5%;
+    margin-left: 25%;
+}

@@ -1,0 +1,147 @@
+body {
+    /* background-color: #66788c;   */
+    background-image: url("imagens/fundo02.png");
+}
+
+.imagemRe {
+    max-width: 1000px;
+    max-height: 1400px;
+    width: auto;
+    height: auto;
+    margin-left: 18%;
+    margin-top: -2%;
+    display: block;
+}
+
+.imgbanner {
+    margin-top: -7%;
+    margin-left: 10%;
+}
+
+.camp2 {
+    text-align: center;
+    margin-left: 2%;
+    margin-top: 5%;
+    width: 75%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+.formulario {
+    height: 75%;
+    width: 75%;
+    margin-top: 2%;
+    margin-left: 20%;
+    /* align-content: center;
+    margin: 0 auto; */
+}
+
+.top3 {
+    margin-top: 3%;
+}
+
+.card1 {
+    float: left;
+    margin-left: 2%;
+}
+
+.card2 {
+    float: left;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.footer1 {
+    height: auto;
+    width: auto;
+    margin-top: 2%;
+    align-content: center;
+    margin: 0 auto;
+}
+
+.carrosel {
+    height: 75%;
+    width: 75%;
+    margin-top: 2%;
+    margin-left: 20%;
+    /* align-content: center; */
+    /* margin: 0 auto; */
+}
+
+.timescad {
+    height: 75%;
+    width: 75%;
+    margin-top: 5%;
+    margin-left: 20%;
+    /* align-content: center; */
+    /* margin: 0 auto; */
+}
+
+.FAQ {
+    height: 75%;
+    width: 75%;
+    margin-top: 5%;
+    margin-left: 20%;
+    /* align-content: center; */
+    /* margin: 0 auto; */
+}
+
+.premios {
+    height: 75%;
+    width: 75%;
+    margin-top: 1%;
+    margin-left: 20%;
+    /* align-content: center; */
+    /* margin: 0 auto; */
+}
+
+.planos {
+    margin-top: -8%;
+    margin-left: 25%;
+}
+
+.listaTime {
+    height: 100%;
+    width: 100%;
+    margin-top: 5%;
+    align-content: center;
+    margin: 0 auto;
+}
+
+.listaJS {
+    height: 100%;
+    width: 100%;
+    margin-top: 25%;
+    align-content: center;
+    margin: 0 auto;
+}
+
+.premio01,
+.premio02 {
+    float: left;
+}
+
+.dados {
+    height: 100%;
+    width: 100%;
+    margin-top: 2%;
+    margin-left: 15%;
+}
