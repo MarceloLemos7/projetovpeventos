@@ -306,7 +306,7 @@ include("../PDO/conexao.php");
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../pages/">
+            <a class="nav-link" href="../pages/sobreCamp.php">
                 <i class="icon-shield menu-icon"></i>
                 <span class="menu-title">Sobre o campeonato</span>
               </a>

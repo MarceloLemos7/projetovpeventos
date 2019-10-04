@@ -310,7 +310,7 @@ if(!isset($_SESSION['user_nome']) && !isset($_SESSION['user_senha']) )
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../pages/">
+              <a class="nav-link" href="../pages/sobreCamp.php">
                 <i class="icon-shield menu-icon"></i>
                 <span class="menu-title">Sobre o campeonato</span>
               </a>
